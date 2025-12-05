@@ -1,0 +1,5 @@
+{
+  "name": "SmartGantt",
+  "description": "一個現代化、互動式的甘特圖工具。支援拖放時間軸、角色篩選、自動工作日計算以及 AI 專案時程生成。",
+  "requestFramePermissions": []
+}
